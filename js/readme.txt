@@ -1,0 +1,1 @@
+En este directorio se sitúan los ficheros Javascript (JS) de la aplicación.

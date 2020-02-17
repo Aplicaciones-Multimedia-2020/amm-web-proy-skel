@@ -1,0 +1,1 @@
+En este directorio se sitúan los archivos multimedia de la aplicación.

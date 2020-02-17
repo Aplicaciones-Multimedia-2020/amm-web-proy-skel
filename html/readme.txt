@@ -1,0 +1,1 @@
+En este directorio se sitúan los ficheros HTML de la aplicación.

@@ -1,0 +1,1 @@
+En este directorio se sitúa cualquier otro recurso de la aplicación.

@@ -1,0 +1,1 @@
+En este directorio se sitúan los ficheros CSS de la aplicación.

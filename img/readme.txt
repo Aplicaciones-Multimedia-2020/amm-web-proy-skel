@@ -1,0 +1,1 @@
+En este directorio se sitúan las imagenes de la aplicación.
